@@ -1,2 +1,8 @@
-# stock
-equire.js for AMD in html5-stock
+# h5stock
+HTML5 Stock Graph For JRJC
+##require.js AMD
+### controller
+### modules
+### views
+
+### run index.html
