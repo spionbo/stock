@@ -5,4 +5,9 @@ HTML5 Stock Graph For JRJC
 ### modules
 ### views
 
-### run index.html
+## Build Setup
+
+``` bash
+# build for production
+run index.html
+```
